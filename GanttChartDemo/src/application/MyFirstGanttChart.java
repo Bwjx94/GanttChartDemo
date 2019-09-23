@@ -5,6 +5,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import com.flexganttfx.view.GanttChart;
 
+//Copied from the user manual
 public class MyFirstGanttChart extends Application {
 	@Override
 	public void start(Stage stage) throws Exception {
